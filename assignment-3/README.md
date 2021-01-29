@@ -7,6 +7,6 @@
 - The use of CSS with stylization
 
 [Youtube channel link](https://www.youtube.com/channel/UCQNUu5U29PKW0dfjoIoVCEw)
-[responses page](./assignment-3/responses.txt)
+[responses page](./responses.txt)
 
-![Screenshot](./assignment-3/images/VS Code Screenshot(2).png)
+![Screenshot](./images/VS Code Screenshot(2).png)
