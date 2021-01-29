@@ -1,0 +1,16 @@
+1.
+---Discord (to chat with my friend group I have met on the VR social platform "VRChat")
+---Hulu (for entertainment)
+---Polygon (for game walkthroughs)
+
+2.IP and DNS, They both cannot function without connecting to the other! Domain names are a simpler form of an IP address human users can more easily 
+memorize and identify, by translating an IP into a domain name, one having a corresponding other, powered by a DNS server, 
+which also keeps track and stores domain names with their matching IP addresses. They both have a relationship that cannot be broken!
+
+3.A cookie is a background text file in certain websites that tracks user preferences and computer information
+
+4. The three parts of a url: 
+-The protocol, 
+-the domain name, 
+-the directory path (/)
+
