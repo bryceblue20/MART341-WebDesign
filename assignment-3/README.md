@@ -8,4 +8,4 @@
 
 [Youtube channel link](https://www.youtube.com/channel/UCQNUu5U29PKW0dfjoIoVCEw)
 [responses page](./assignment-3/responses.txt)
-[Screenshot](./images/VS Code Screenshot(2).png)
+[Screenshot](./assignment-3/images/VS Code Screenshot(2).png)
