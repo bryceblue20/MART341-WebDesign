@@ -10,4 +10,4 @@
 
 [responses page](./responses.txt)
 
-![Screenshot](./assignment-3/images/VS Code Screenshot(2).png)
+![Screenshot](./images/VS Code Screenshot(2).png)
