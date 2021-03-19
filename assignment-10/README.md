@@ -1,0 +1,3 @@
+1. Universal selector defines the entire document, element selectors difine specific areas of the code such as paragraphs and headings!, class selectors use the class tag within certain attributes in order to style, and the ID tags use the unique IDs of a document assigned by developers!
+
+2. For my site, i chose more dream like, feel good etheral colors, due to the slightly muted images (opacity). Lightcyan, lightseagreen, and two different shades of grays for the borders! (normal gray and lightsteelblue)
