@@ -1,0 +1,3 @@
+1. Web-safe fonts are the more default, typical fonts installed on every computer, such as Ariel and Times New Roman, whilst web fonts need to be pre-installed before use! System fonts are the same, except rather then used for font-face declaration in CSS, they are used for applications
+
+2. Fallback fonts are important for use in websites that could not load the main font for whatever reason. Think of it as a backup! 
