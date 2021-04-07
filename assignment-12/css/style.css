@@ -63,12 +63,8 @@ h2{
 }
 
 p{
-    border-top-width: 4px;
-    position: relative;
-    top:-350px;
-    font-size:30px;
-    padding-right:40em;
-    line-height: 40px;
+    width:75%;
+    float:right;
 }
 
 
