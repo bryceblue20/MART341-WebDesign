@@ -2,6 +2,11 @@
     font-family: Arial, Helvetica, sans-serif
 }
 
+html{
+width:auto;
+min-width: 960px;
+}
+
 body{
 background-color:lightgray;
 }
