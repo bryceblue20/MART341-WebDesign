@@ -26,12 +26,10 @@ div{
         content:url("../images/earth.jpg");
     }
 }
-
-@media only scren and (min-width: 600px) {
 .secondpic{
     float: right;
    }
-}
+
 
   .col-1 {width: 8.33%;} 
   .col-2 {width: 16.66%;}
