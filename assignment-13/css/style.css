@@ -35,8 +35,30 @@ div{
     
 }
 
+@media only screen and (min-width: 600px) {
+    .secondpic{
+        content:url("../images/iss.jpg");
+        float:right;
+        width: 500px;
+        height: 400px;
+    }   
 
 
+    .thirdimg{
+        content:url("../images/shuttle-small.jpg");
+
+    }
+
+    @media only screen and (min-width: 600px) {
+        .thirdimg{
+            content:url("../images/shuttle.jpg");
+            display:block;
+            margin-left:auto;
+            margin-right:auto;
+            width: 800px;
+            height: 600px;
+        }
+    }
 
   .col-1 {width: 8.33%;} 
   .col-2 {width: 16.66%;}
