@@ -68,12 +68,14 @@ color:black;
     
 .paragraph-1 {
   text-size:16px;
+  text-align:center;
   color:black;
   font-weight:bolder;
   }
 
 .paragraph-2 {
   text-size:16px;
+  text-align:center;
   color:black;
 }
 
