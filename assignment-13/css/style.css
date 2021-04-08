@@ -28,6 +28,7 @@ div{
 }
 .secondpic{
     float: right;
+     content:url("../images/iss.jpg");
    }
 
 
