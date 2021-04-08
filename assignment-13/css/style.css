@@ -2,6 +2,14 @@
     box-sizing: border-box;
   }
 
+.title {
+    font-size:60px;
+    color:black;
+    text-style:bold;
+    text-align:center;
+    background-color:grey;
+}
+
 .main{
     float: left;
     content:url("../images/earth-small.jpg");
@@ -29,6 +37,17 @@
 [class*="col-"] {
     float: left;
     padding:15px;
+}
+
+.navigation {
+background-color:grey;
+}
+
+a:hover {
+text-style:italic;
+text-weight:bold;
+background-color:white;
+   
 }
 
 
