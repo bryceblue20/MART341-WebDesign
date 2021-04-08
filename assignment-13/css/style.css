@@ -30,6 +30,8 @@ div{
 .secondpic{
     float: right;
     content:url("../images/iss.jpg");
+    width:500px;
+    height;400px;
     
 }
 
