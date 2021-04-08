@@ -51,9 +51,9 @@ background-color:grey;
 }
 
 a:hover {
-text-style:italic;
-text-weight:bold;
+text-weight:bolder;
 background-color:white;
+color:black;
 }
     
 .paragraph-1 {
