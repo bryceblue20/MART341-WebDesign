@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF">
+<meta name="description" content="Home">
+<meta name="author" content="Bryce Rigler">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="./css/style.css"/>
+<title>13 With Kits</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.19/dist/css/uikit.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.6.19/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.6.19/dist/js/uikit-icons.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<style>
+ a {
+     color:black;
+ }
+</style>
+</head>
+<body>
+    <article class="uk-comment">
+        <header class="uk-comment-header">
+            <div class="uk-grid-medium uk-flex-middle" uk-grid>
+                <div class="uk-width-auto">
+                    <img class="uk-comment-avatar" src="https://github.com/bryceblue20/MART341-WebDesign/blob/main/assignment-14/images/graphic.jpg" width="80" height="80" alt="">
+                </div>
+                <div class="uk-width-expand">
+                    <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="#">Bryce Rigler</a></h4>
+                    <ul class="uk-comment-meta uk-subnav uk-subnav-divider uk-margin-remove-top">
+                        <li><a href="#"><i>6 days ago</i></a></li>
+                       
+                    </ul>
+                </div>
+            </div>
+    <div class="navigation">
+        <nav id="navigation">
+            <div class="logo">
+                <p>Pilgrimage Space Flights</p>
+            </div>
+             <li><a href="./index.html">Main Page</a></li>
+             <li><a href="./services.html">Services</a></li>
+             <li><a href="./about.html">About Us</a></li>
+             <a href="/art.html">Art</a></li>
+          <div class="dropdown_div">
+            <button class="dropdown_button">More Info</button>
+              <div class="dropdown_content">
+              <a href="https://spaceflightnow.com/launch-schedule/">Flight Schedules</a>
+              <a href="https://www.planetary.org/sci-tech/lightsail">Latest Space News</a>
+              <a href="https://www.esa.int/About_Us/Careers_at_ESA/ESA_Astronaut_Selection/Astronaut_selection_2021-22_FAQs">Astronaut FAQ</a>
+          </div>
+        </div>
+     </nav>
+    </div>
+        <div class="title">
+            <h1>
+                Contact Us!!
+            </h1>
+        </div> 
+    <div class="fifthimg">
+    </div>
+    <form action='#' method="POST">
+        <p><b>General Questions and Concerns</b></p>
+        <textarea name="comments" id="test-textarea">Enter up to 500 characters</textarea>
+        <input type="submit" value="Submit"/>
+    </form>
+        <form action='#' method="POST">
+            <p><b>Concerns regarding Flights</b></p>
+            <textarea name="comments" id="test-textarea">Enter up to 500 characters</textarea>
+            <input type="submit" value="Submit"/>
+    </form>
+    <form action='#' method="POST">
+        <p><b>Concerns regarding Tech</b></p>
+        <textarea name="comments" id="test-textarea">Enter up to 500 characters</textarea>
+        <input type="submit" value="Submit"/>
+    </form>
+    <form action='#' method="POST">
+        <p><b>Concerns regarding Communications</b></p>
+        <textarea name="comments" id="test-textarea">Enter up to 500 characters</textarea>
+        <input type="submit" value="Submit"/>
+    </form>
+    <form action='#' method="POST">
+        <p><b>Level of Training</b></p>
+        <ul>
+         <li><input type="checkbox" id="training" name="training" value="degree"/>College Graduate of 2 years</li>
+         <li><input type="checkbox" id="training" name="training" value="bachelor"/>College Graduate of 4 years</li>
+         <li><input type="checkbox" id="training" name="training" value="masters"/>Masters degree</li>
+         <li><input type="checkbox" id="training" name="training" value="novice"/>At least 5 years of Astronaut Training</li>
+         <li><input type="checkbox" id="training" name="training" value="experienced"/>At least 10 years of Astronaut Training</li>
+        </ul>
+        <input type="submit" value="Submit"/>
+    </form>
+    <div class=countdown-title>
+        Countdown for Next Flight   
+    </div>
+    <div class="uk-grid-small uk-child-width-auto uk-margin" uk-grid uk-countdown="date: 2021-07-15T06:46:22+00:00">
+        <div>
+            <div class="uk-countdown-number uk-countdown-days"></div>
+        </div>
+        <div>
+            <div class="uk-countdown-number uk-countdown-hours"></div>
+        </div>
+        <div>
+            <div class="uk-countdown-number uk-countdown-minutes"></div>
+        </div>
+        <div>
+            <div class="uk-countdown-number uk-countdown-seconds"></div>
+        </div>
+    </div>
+</body>
+</html>
