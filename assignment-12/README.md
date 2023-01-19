@@ -1,1 +1,0 @@
-Borders surround the content of the object, and can be fitted with color and different stylings such as solid and dotted. Margins reer to the space surrounding the border, and padding refers to the positioning of the content within the border.
