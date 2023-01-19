@@ -1,3 +1,0 @@
-1. Registration forms for forum websites (made from inputs such as "text" and "radio")I have come across many of times! They serve to produce your user information and to show it to the website server. Birthdays, passwords, e-mail addresses, etc. are put into these! 
-
-2. A text input is the most basic form input wherest user information is typed within a box. (such as with typing in phone numbers) A selection input is most commonly used for dropdown menus, such as when selecting your country. Finally, button inputs are a more stylistic way to create a selection, with buttons such as bulleted radios or checkmarks!
